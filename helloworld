@@ -1,0 +1,14 @@
+import java.util.*;
+class HelloWorld{
+	public static void main(String args[]){
+		System.out.println("1.What's the output of ''4\2'':\n \ta.3 \nb.2 \nc.1");
+		}
+}
+
+
+
+output:
+1.What's the output of ''4☻'':
+        a.3
+b.2
+c.1
