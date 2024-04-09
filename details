@@ -1,0 +1,25 @@
+import java.util.*;
+class Details{
+	public static void main(String args[]){
+               String name = "John Doe";
+               char initial = 'J';
+               int age = 25;
+               String phoneNumber = "123-456-7890";
+               double cgpa = 3.8d;
+     
+               System.out.println("\nStored Information:");
+               System.out.println("Name: " + name);
+               System.out.println("Initial: " + initial);
+               System.out.println("Age: " + age);
+               System.out.println("Phone number: " + phoneNumber);
+               System.out.println("CGPA: " + cgpa);
+}
+}
+
+output:
+Stored Information:
+Name: John Doe
+Initial: J
+Age: 25
+Phone number: 123-456-7890
+CGPA: 3.8
