@@ -1,0 +1,19 @@
+import java.util.Scanner;
+class Namesplitting
+{
+public static void main (String args[])
+{
+Scanner sc=new Scanner(System.in);
+System.out.println("Enter the name:");
+String firstname=sc.next();
+String lastname=sc.next();
+System.out.println("Firstname:"+firstname);
+System.out.println("secondname:"+lastname);
+}
+}
+
+output:
+Enter the name:
+kani mozhi
+Firstname:kani
+secondname:mozhi
